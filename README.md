@@ -97,9 +97,6 @@ Need help or have questions?
 - ansh.db          [ @titanxdevz ]
 - mr_ambanigaming  [ @ambanigaming0 ]
 - 9vxk             [ @ozumaly ]
-- kinshukxff2      [ @aartip846-cyber ]
-- luminaofficial0  [ @LUMINAOFFICIAL1 ]
-- sahil0xf         [ @sahilneverdies ]
 
 
 ## 📝 License
